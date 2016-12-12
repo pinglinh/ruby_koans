@@ -1,4 +1,5 @@
-# Ruby Koans
+= Learning Ruby
+This will my attempt at completing all the tests in Ruby Koans.
 
 = Neo Ruby Koans
 
