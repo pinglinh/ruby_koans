@@ -1,3 +1,5 @@
+# Ruby Koans
+
 = Neo Ruby Koans
 
 The Ruby Koans walk you along the path to enlightenment in order to learn Ruby.
@@ -189,3 +191,4 @@ http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png
 RubyKoans is released under a Creative Commons,
 Attribution-NonCommercial-ShareAlike, Version 3.0
 (http://creativecommons.org/licenses/by-nc-sa/3.0/) License.
+
